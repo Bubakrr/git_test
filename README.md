@@ -1,2 +1,2 @@
 # git_test
-Hello Odin
+Hello Odin. This is a test to check if i have successfully ran the basics of git and github. I have learned how to create repositories on github and on my loacal machine,create files using on my local machine using the gitbash terminal, edit them using (git add) and (git commit) commands in my terminal and succesfully be able to push the repository and its file. The beginning of a great long journey.
